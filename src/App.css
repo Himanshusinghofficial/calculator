@@ -30,7 +30,7 @@ button:hover {
 
 .input {
   grid-area: total;
-  height: 100px;
+  height: 150px;
   padding: 20px;
   background-color:black;
   color: white;
